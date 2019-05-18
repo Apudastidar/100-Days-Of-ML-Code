@@ -8,3 +8,5 @@ Today's progress : Yesterday i learnt Variable, User input, Math, Compare, List,
 Today's progress: Today i learn Data structure. Those are List structure, stack, Queue, Dictionary Data structure, Access Data.
 # Day 4 : May 17, 2019 | Python 3 from scratch | Udemy online course
 Today's progress: Today i spent all my day to learn Python from scratch in Udemey. I successfullly completed this course and get a certificate that i uploaded in this repository.
+# Day 5 : May 18, 2019 | progamming with Python
+TOday's progress: Today i write code in python. Almost 4 hours i practice programming in Python.
