@@ -10,3 +10,5 @@ Today's progress: Today i learn Data structure. Those are List structure, stack,
 Today's progress: Today i spent all my day to learn Python from scratch in Udemey. I successfullly completed this course and get a certificate that i uploaded in this repository.
 # Day 5 : May 18, 2019 | progamming with Python
 TOday's progress: Today i write code in python. Almost 4 hours i practice programming in Python.
+# Day 6 : May 20, 2019 | programming with Python 
+Today's progress: Today i spent my day to learn data structure. some of those are Dictonary,collection of pair, access value,Data variable,add element,update and delete etc.
